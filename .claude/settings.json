@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": ["Bash(git status)", "Bash(git diff *)"],
+    "ask": ["Bash(git push *)"],
+    "deny": ["Read(./.env)"]
+  }
+}
